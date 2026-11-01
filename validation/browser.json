@@ -1,0 +1,47 @@
+{
+  "at": "2026-11-01T07:30:42.896Z",
+  "browser": "Google Chrome through Playwright",
+  "browserVersion": "156.0.8078.79",
+  "results": [
+    {
+      "name": "initial plan, return-day table, desktop and narrow layout",
+      "status": "passed"
+    },
+    {
+      "name": "keep changes allocation; conflicting keeps stop the plan",
+      "status": "passed"
+    },
+    {
+      "name": "extra-unit comparison is unapplied until explicit action",
+      "status": "passed"
+    },
+    {
+      "name": "request validation, edit, quantities and explicit removal",
+      "status": "passed"
+    },
+    {
+      "name": "export round trip and malformed import preserve workspace",
+      "status": "passed"
+    },
+    {
+      "name": "keyboard dialog closes and returns focus; editing controls are labeled",
+      "status": "passed"
+    },
+    {
+      "name": "another tab cannot silently replace a stale workspace",
+      "status": "passed"
+    },
+    {
+      "name": "zero available units produce a valid reduced plan and clear conflict reasons",
+      "status": "passed"
+    },
+    {
+      "name": "storage write failure keeps an exportable unsaved draft",
+      "status": "passed"
+    },
+    {
+      "name": "unreadable storage preserved until explicit replacement",
+      "status": "passed"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+node_modules/
+artifacts/
+media/raw/
+BUILD_NOTES.md
+submission/
+.DS_Store

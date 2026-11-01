@@ -1,0 +1,80 @@
+
+> borrowfair@0.1.0 test
+> node --test test/*.test.mjs
+
+TAP version 13
+# Subtest: fictional example serves 9 borrowers versus 6 first-come, with valid plans
+ok 1 - fictional example serves 9 borrowers versus 6 first-come, with valid plans
+  ---
+  duration_ms: 11.250208
+  type: 'test'
+  ...
+# Subtest: one extra tripod serves Ian; comparison does not mutate original input
+ok 2 - one extra tripod serves Ian; comparison does not mutate original input
+  ---
+  duration_ms: 1.718333
+  type: 'test'
+  ...
+# Subtest: one extra camera cannot solve a microphone conflict in the bundled request
+ok 3 - one extra camera cannot solve a microphone conflict in the bundled request
+  ---
+  duration_ms: 3.840291
+  type: 'test'
+  ...
+# Subtest: pinning the long loan changes the result, and duplicate-borrower pins fail visibly
+ok 4 - pinning the long loan changes the result, and duplicate-borrower pins fail visibly
+  ---
+  duration_ms: 1.126125
+  type: 'test'
+  ...
+# Subtest: zero-stock pin conflicts never silently drop a keep
+ok 5 - zero-stock pin conflicts never silently drop a keep
+  ---
+  duration_ms: 0.117167
+  type: 'test'
+  ...
+# Subtest: return boundary can be reused, and quantities are counted for bundles
+ok 6 - return boundary can be reused, and quantities are counted for bundles
+  ---
+  duration_ms: 0.536958
+  type: 'test'
+  ...
+# Subtest: a bounded result remains valid and does not claim completed search
+ok 7 - a bounded result remains valid and does not claim completed search
+  ---
+  duration_ms: 0.498541
+  type: 'test'
+  ...
+# Subtest: calendar dates, duplicate IDs, aliases, quantities and window limits validate
+ok 8 - calendar dates, duplicate IDs, aliases, quantities and window limits validate
+  ---
+  duration_ms: 0.525583
+  type: 'test'
+  ...
+# Subtest: empty round is valid; capacity chart reports actual selected usage
+ok 9 - empty round is valid; capacity chart reports actual selected usage
+  ---
+  duration_ms: 3.187458
+  type: 'test'
+  ...
+# Subtest: request order does not change complete-search result
+ok 10 - request order does not change complete-search result
+  ---
+  duration_ms: 5.853125
+  type: 'test'
+  ...
+# Subtest: 400 deterministic random small rounds match an independent exhaustive oracle
+ok 11 - 400 deterministic random small rounds match an independent exhaustive oracle
+  ---
+  duration_ms: 139.591917
+  type: 'test'
+  ...
+1..11
+# tests 11
+# suites 0
+# pass 11
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 238.994375

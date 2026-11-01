@@ -1,0 +1,127 @@
+{
+  "format_version": 1,
+  "app": "BorrowFair",
+  "scope": "Original local planning prototype; fictional example; no contest receipt or award implied",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 73,
+      "sha256": "be5b9bcac6dec5b43c1f7370804286f8b05c52ca45365eeb707666f3091b45a1"
+    },
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1069,
+      "sha256": "d00b722f96f9f6556176cd771097ad24e76b6b10f495e669dffb450f17a2ce9f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7304,
+      "sha256": "85c4342af5dee3ef02ab2a9e189a5ff5a15a2f4ba86fc52f550a2ffbdd877390"
+    },
+    {
+      "path": "VALIDATION.md",
+      "bytes": 2947,
+      "sha256": "635ae0c91df996050a6957c193dbbeb36def097d20c09550be98af8a9c1a39c9"
+    },
+    {
+      "path": "demo.html",
+      "bytes": 2389,
+      "sha256": "7ecc9b82654bb6efdc63081d4d68930c3c31255b0eca60a295409ee6018df10f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7240,
+      "sha256": "c87d3e7ac30f895d3275854f1244ee05048b3fe20d0c8eaf99f036359a3686ff"
+    },
+    {
+      "path": "media/TRANSCRIPT.md",
+      "bytes": 1710,
+      "sha256": "a44b96d904e69da210ca4dbf8e5945aac12683b8df6a9294021b1c8b65a28bb0"
+    },
+    {
+      "path": "media/borrowfair-walkthrough.mp4",
+      "bytes": 2331389,
+      "sha256": "02de84aa6a2e105b44eee7662f189bc466a7c9c3c3f6fd2e6974ff0cce960743"
+    },
+    {
+      "path": "media/scenes.json",
+      "bytes": 2354,
+      "sha256": "d4e11b4c67ee62090b8427aaaace34d95947b01b9399f23b444be70caf22c40b"
+    },
+    {
+      "path": "package.json",
+      "bytes": 195,
+      "sha256": "9c20aef32bbd5e0e86f11e061939955c8aff5c97bdd498ffc7dc60d5c3d7d596"
+    },
+    {
+      "path": "server.mjs",
+      "bytes": 2280,
+      "sha256": "e88c678f7b175d2080b8aac6bbcbc2741a3f261eee37d34b6478be6caa5b4330"
+    },
+    {
+      "path": "src/app.js",
+      "bytes": 19981,
+      "sha256": "129ac5d288a9ce6db82fcc8253055891cd165f54650152316af8dcd173734c12"
+    },
+    {
+      "path": "src/engine.js",
+      "bytes": 9186,
+      "sha256": "bdcdd00a776b1a29a4b0eaebd57ae398cbbdc7b639ca356ea2a2acfa030ac276"
+    },
+    {
+      "path": "src/example.js",
+      "bytes": 1626,
+      "sha256": "0017027384f83f11ac4fc42bf39f53ed8656a5c6bf80391c0c98675cbdd11463"
+    },
+    {
+      "path": "src/worker.js",
+      "bytes": 273,
+      "sha256": "6d00a8b044a4e076b6bad3def5b03f6839122e677e8ddaee866dd9af5371c232"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 11166,
+      "sha256": "90a20fe15f9125046c3469d5b75ccee438d07609b8d496cb43bbc63da6cf96a7"
+    },
+    {
+      "path": "test/engine.test.mjs",
+      "bytes": 5288,
+      "sha256": "7bb63f13db9c21e578065eeb19cce239de1ffa76c363c17fd339ca24713d819a"
+    },
+    {
+      "path": "test/ui.mjs",
+      "bytes": 9710,
+      "sha256": "368e54adb3b601d7a86d31da9d60dae299d801ce98f43e1b24343ff8c17e359e"
+    },
+    {
+      "path": "validation/axe.json",
+      "bytes": 187,
+      "sha256": "a2f5dca723b68380c488b047cd24c10bc2a1c79c0537cfef98cbc1acd610cc31"
+    },
+    {
+      "path": "validation/browser.json",
+      "bytes": 1295,
+      "sha256": "35f654ef0cb4bfcedb34033b3f76cec33aed8cea879c666ebdd7b047e867de7d"
+    },
+    {
+      "path": "validation/engine-tests.txt",
+      "bytes": 2478,
+      "sha256": "a9ae5a98a6bd896dd07a8b414168504809e58403379092d2e85f7ce421450625"
+    },
+    {
+      "path": "validation/video-http-ranges.json",
+      "bytes": 218,
+      "sha256": "1c1fd04d63022dfbc9347184a8c61d96a07c9f3297b12dc361b681d2f983ddca"
+    },
+    {
+      "path": "validation/video-playback.json",
+      "bytes": 263,
+      "sha256": "b984b37b361c7e00da56707b74af1a37222989144fd8cbf4d2507b7a3ada8519"
+    }
+  ]
+}

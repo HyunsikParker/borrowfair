@@ -1,0 +1,16 @@
+{
+  "at": "2026-11-01T07:44:25.368Z",
+  "status": "passed",
+  "meta": {
+    "duration": 116.16,
+    "width": 1280,
+    "height": 800,
+    "error": null
+  },
+  "progress": {
+    "currentTime": 1.012,
+    "paused": true,
+    "error": null
+  },
+  "seekSeconds": 64
+}

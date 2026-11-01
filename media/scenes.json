@@ -1,0 +1,66 @@
+{
+  "recordedAt": "2026-11-01T07:42:07.568Z",
+  "kind": "Actual browser interactions with captions outside the app iframe; fictional built-in data",
+  "scenes": [
+    {
+      "start": 0.175,
+      "end": 8.218,
+      "text": "BorrowFair plans equipment loans. This fictional club has 12 requests from 11 borrowers."
+    },
+    {
+      "start": 8.224,
+      "end": 18.228,
+      "text": "The same stock serves 9 borrowers here. The first-come comparison serves 6. These are example results."
+    },
+    {
+      "start": 18.302,
+      "end": 29.305,
+      "text": "The rule serves more borrowers first, then prefers a lower total of previous loans. Each borrower gets at most one request."
+    },
+    {
+      "start": 29.4,
+      "end": 40.401,
+      "text": "Requests can need several items together. Dara’s camera-and-microphone kit conflicts on the listed dates."
+    },
+    {
+      "start": 40.483,
+      "end": 50.486,
+      "text": "Keep a specific request when it must be included. Keeping Nora’s long loan reduces this plan to 6 borrowers."
+    },
+    {
+      "start": 50.634,
+      "end": 58.635,
+      "text": "Release the keep to compare the full set again. A draft allocation is not a confirmed reservation."
+    },
+    {
+      "start": 58.716,
+      "end": 70.717,
+      "text": "One extra tripod lets Ian join the plan. The comparison reports additions and displacement without changing stock."
+    },
+    {
+      "start": 70.797,
+      "end": 79.799,
+      "text": "Apply the extra unit only if it is actually available. This workspace now plans for 3 tripods and 10 borrowers."
+    },
+    {
+      "start": 79.855,
+      "end": 89.858,
+      "text": "Edit dates, quantities and prior-loan counts. Return dates are free for another pickup; aliases keep contact details out."
+    },
+    {
+      "start": 90.086,
+      "end": 98.089,
+      "text": "Export a workspace backup. Restoring a file requires a preview and confirmation before it replaces current work."
+    },
+    {
+      "start": 98.179,
+      "end": 108.18,
+      "text": "The limits are visible: one local round, at most 48 requests, and no checkout or synchronization service."
+    },
+    {
+      "start": 108.246,
+      "end": 116.249,
+      "text": "Built for GenHacks with OpenAI Codex assistance. Code, tests and documentation accompany the working prototype."
+    }
+  ]
+}
